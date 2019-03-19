@@ -5,7 +5,7 @@ What I did to "improve":
 
 Step1:
 
-Replaced API key with mine, changed the labels to get the audios I need from Freesound API. 
+Replaced API key with mine, changed the labels to get the audios I needed from Freesound API. 
 
 Step2:
 
