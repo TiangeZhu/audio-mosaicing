@@ -12,4 +12,4 @@ Algorithms are both from Essentia.
 Step3:
 Applied randomization before K-nearest neighbour algorithm, just for fun
 
-Note that since I'm using beat tracking, the target file should have clear beats. Otherwise it won't work well.
+Note that since I'm using beat tracking, the target file should have clear beats. 
